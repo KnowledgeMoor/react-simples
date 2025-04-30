@@ -19,7 +19,7 @@ Este é um aplicativo web simples desenvolvido com React. A página inicial exib
    ```
 2. Acesse a pasta:
    ```bash
-   cd acesso-a-informacao
+   cd react-simples
    ```
 3. Instalar as dependencias:
    ```bash
