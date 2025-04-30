@@ -1,8 +1,25 @@
-# React + Vite
+# React Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Este é um aplicativo web simples desenvolvido com React, destinado a exibir informações de transparência e governança de uma forma clara e acessível. A página inicial exibe um título e uma lista de links para diferentes seções, como "Plano de Desenvolvimento Institucional", "Pesquisa pública", "Licitações e contratos", entre outras.
 
-Currently, two official plugins are available:
+## Funcionalidades
+- Exibe um título principal e uma descrição.
+- Apresenta uma lista de caixas com links que redirecionam para informações específicas.
+- A lista de links é dinâmica, e as informações podem ser facilmente ajustadas no código.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Tecnologias Utilizadas
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS**: Estilização básica da página.
+
+## Como Rodar o Projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/acesso-a-informacao.git
+   cd acesso-a-informacao
+   npm install
+   npm start
+   ```
